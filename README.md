@@ -19,7 +19,7 @@ It serves as a learning journal and reference for common DSA problems and concep
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/DSA-cpp.git
+git clone https://github.com/YOUR_USERNAME/DSA(c++).git
 ```
 
 2. Navigate to the folder and compile:
