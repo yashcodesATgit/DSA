@@ -18,16 +18,19 @@ It serves as a learning journal and reference for common DSA problems and concep
  💻 How to Run
 
 ### 1. Clone the repository:
-
-git clone https://github.com/yashcodesATgit/code.git
+```bash
+git clone https://github.com/YOUR_USERNAME/DSA-cpp.git
+```
 
 2. Navigate to the folder and compile:
-
+```bash
 g++ filename.cpp -o filename
+```
 
 3. Run the executable:
-
-   ./filename
+ ```bash
+./filename
+```
 
 
    🛠️ Tech Stack
