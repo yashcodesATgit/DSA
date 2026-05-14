@@ -15,7 +15,7 @@ It serves as a learning journal and reference for common DSA problems and concep
 
 ---
 
- 💻 How to Run
+ 💻 How to Run:-
 
 ### 1. Clone the repository:
 ```bash
@@ -33,11 +33,13 @@ g++ filename.cpp -o filename
 ```
 
 
-   🛠️ Tech Stack
+ 🛠️ Tech Stack:-
+   
 Language: C++
 Editor: VS Code
 Compiler: g++
-🎯 Purpose
+
+🎯 Purpose:-
 
 This repository is created to:
 
